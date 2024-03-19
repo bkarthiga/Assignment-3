@@ -1,0 +1,6 @@
+Name: Karthiga Balasubramaniam
+Student Number: 100670854
+pgAdmin4 has run and submitted
+
+pip install psycopg2
+python Assignment.py
